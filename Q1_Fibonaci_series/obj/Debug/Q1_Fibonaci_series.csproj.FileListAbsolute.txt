@@ -1,0 +1,8 @@
+D:\BridgeLabz\SankeAndLadder\Q1_Fibonaci_series\Q1_Fibonaci_series\bin\Debug\Q1_Fibonaci_series.exe.config
+D:\BridgeLabz\SankeAndLadder\Q1_Fibonaci_series\Q1_Fibonaci_series\bin\Debug\Q1_Fibonaci_series.exe
+D:\BridgeLabz\SankeAndLadder\Q1_Fibonaci_series\Q1_Fibonaci_series\bin\Debug\Q1_Fibonaci_series.pdb
+D:\BridgeLabz\SankeAndLadder\Q1_Fibonaci_series\Q1_Fibonaci_series\obj\Debug\Q1_Fibonaci_series.csproj.AssemblyReference.cache
+D:\BridgeLabz\SankeAndLadder\Q1_Fibonaci_series\Q1_Fibonaci_series\obj\Debug\Q1_Fibonaci_series.csproj.SuggestedBindingRedirects.cache
+D:\BridgeLabz\SankeAndLadder\Q1_Fibonaci_series\Q1_Fibonaci_series\obj\Debug\Q1_Fibonaci_series.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\SankeAndLadder\Q1_Fibonaci_series\Q1_Fibonaci_series\obj\Debug\Q1_Fibonaci_series.exe
+D:\BridgeLabz\SankeAndLadder\Q1_Fibonaci_series\Q1_Fibonaci_series\obj\Debug\Q1_Fibonaci_series.pdb
