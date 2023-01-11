@@ -1,0 +1,8 @@
+D:\BridgeLabz\SankeAndLadder\Q3_PrimeNumber\Q3_PrimeNumber\bin\Debug\Q3_PrimeNumber.exe.config
+D:\BridgeLabz\SankeAndLadder\Q3_PrimeNumber\Q3_PrimeNumber\bin\Debug\Q3_PrimeNumber.exe
+D:\BridgeLabz\SankeAndLadder\Q3_PrimeNumber\Q3_PrimeNumber\bin\Debug\Q3_PrimeNumber.pdb
+D:\BridgeLabz\SankeAndLadder\Q3_PrimeNumber\Q3_PrimeNumber\obj\Debug\Q3_PrimeNumber.csproj.AssemblyReference.cache
+D:\BridgeLabz\SankeAndLadder\Q3_PrimeNumber\Q3_PrimeNumber\obj\Debug\Q3_PrimeNumber.csproj.SuggestedBindingRedirects.cache
+D:\BridgeLabz\SankeAndLadder\Q3_PrimeNumber\Q3_PrimeNumber\obj\Debug\Q3_PrimeNumber.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\SankeAndLadder\Q3_PrimeNumber\Q3_PrimeNumber\obj\Debug\Q3_PrimeNumber.exe
+D:\BridgeLabz\SankeAndLadder\Q3_PrimeNumber\Q3_PrimeNumber\obj\Debug\Q3_PrimeNumber.pdb
