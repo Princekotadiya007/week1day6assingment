@@ -1,8 +1,0 @@
-D:\BridgeLabz\LocgicalPrograms\week1day6assingment\Q4_ReverseNumber\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-D:\BridgeLabz\LocgicalPrograms\week1day6assingment\Q4_ReverseNumber\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-D:\BridgeLabz\LocgicalPrograms\week1day6assingment\Q4_ReverseNumber\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-D:\BridgeLabz\LocgicalPrograms\week1day6assingment\Q4_ReverseNumber\ConsoleApp1\ConsoleApp1\obj\Debug\Q4_ReverseNumber.csproj.AssemblyReference.cache
-D:\BridgeLabz\LocgicalPrograms\week1day6assingment\Q4_ReverseNumber\ConsoleApp1\ConsoleApp1\obj\Debug\Q4_ReverseNumber.csproj.SuggestedBindingRedirects.cache
-D:\BridgeLabz\LocgicalPrograms\week1day6assingment\Q4_ReverseNumber\ConsoleApp1\ConsoleApp1\obj\Debug\Q4_ReverseNumber.csproj.CoreCompileInputs.cache
-D:\BridgeLabz\LocgicalPrograms\week1day6assingment\Q4_ReverseNumber\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-D:\BridgeLabz\LocgicalPrograms\week1day6assingment\Q4_ReverseNumber\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
